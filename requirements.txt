@@ -1,0 +1,23 @@
+# FF14战斗分析器 - 依赖包列表
+
+# 项目使用Python标准库tkinter进行GUI开发，无需额外安装
+# 项目使用Python标准库json进行配置文件读写，无需额外安装
+# 项目使用Python标准库os, sys进行文件和系统操作，无需额外安装
+# 项目使用Python标准库datetime进行时间处理，无需额外安装
+# 项目使用Python标准库subprocess进行进程管理，无需额外安装
+# 项目使用Python标准库threading进行多线程处理，无需额外安装
+# 项目使用Python标准库atexit进行程序退出处理，无需额外安装
+# 项目使用Python标准库ctypes进行Windows API调用，无需额外安装
+# 项目使用Python标准库collections进行数据结构操作，无需额外安装
+# 项目使用Python标准库glob进行文件匹配，无需额外安装
+# 项目使用Python标准库typing进行类型提示，无需额外安装
+
+# 测试框架依赖
+pytest>=6.0.0
+
+# 注意：本项目主要依赖Python标准库，无需安装第三方包
+# 运行环境要求：
+# - Python 3.8或更高版本
+# - Windows操作系统（推荐Windows 10或更高版本）
+# - ACT (Advanced Combat Tracker) 已安装并配置好
+# - 相关的FF14 ACT插件（如FFXIV Plugin）

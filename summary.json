@@ -1,0 +1,391 @@
+{
+    "data": {
+        "reportData": {
+            "report": {
+                "table": {
+                    "data": {
+                        "totalTime": 66150,
+                        "itemLevel": 0,
+                        "combatTime": 66150,
+                        "composition": [
+                            {
+                                "name": "小祥客服",
+                                "id": 3,
+                                "guid": 1000003,
+                                "type": "DarkKnight",
+                                "specs": [
+                                    {
+                                        "spec": "tank",
+                                        "role": "tank"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "啊羽羽羽",
+                                "id": 8,
+                                "guid": 1000008,
+                                "type": "Dancer",
+                                "specs": [
+                                    {
+                                        "spec": "dps",
+                                        "role": "dps"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "死炎法",
+                                "id": 4,
+                                "guid": 1000004,
+                                "type": "WhiteMage",
+                                "specs": [
+                                    {
+                                        "spec": "healer",
+                                        "role": "healer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "翼wing",
+                                "id": 7,
+                                "guid": 1000007,
+                                "type": "Ninja",
+                                "specs": [
+                                    {
+                                        "spec": "dps",
+                                        "role": "dps"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "雷霆与希望",
+                                "id": 6,
+                                "guid": 1000006,
+                                "type": "BlackMage",
+                                "specs": [
+                                    {
+                                        "spec": "dps",
+                                        "role": "dps"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Saika",
+                                "id": 5,
+                                "guid": 1000005,
+                                "type": "Gunbreaker",
+                                "specs": [
+                                    {
+                                        "spec": "tank",
+                                        "role": "tank"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "天秤",
+                                "id": 9,
+                                "guid": 1000009,
+                                "type": "Scholar",
+                                "specs": [
+                                    {
+                                        "spec": "healer",
+                                        "role": "healer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "里安里德",
+                                "id": 10,
+                                "guid": 1000010,
+                                "type": "Viper",
+                                "specs": [
+                                    {
+                                        "spec": "dps",
+                                        "role": "dps"
+                                    }
+                                ]
+                            }
+                        ],
+                        "damageDone": [
+                            {
+                                "name": "啊羽羽羽",
+                                "id": 8,
+                                "guid": 1000008,
+                                "type": "Dancer",
+                                "icon": "Dancer",
+                                "total": 1680356
+                            },
+                            {
+                                "name": "小祥客服",
+                                "id": 3,
+                                "guid": 1000003,
+                                "type": "DarkKnight",
+                                "icon": "DarkKnight",
+                                "total": 1310688
+                            },
+                            {
+                                "name": "死炎法",
+                                "id": 4,
+                                "guid": 1000004,
+                                "type": "WhiteMage",
+                                "icon": "WhiteMage",
+                                "total": 1045516
+                            },
+                            {
+                                "name": "翼wing",
+                                "id": 7,
+                                "guid": 1000007,
+                                "type": "Ninja",
+                                "icon": "Ninja",
+                                "total": 1795599
+                            },
+                            {
+                                "name": "雷霆与希望",
+                                "id": 6,
+                                "guid": 1000006,
+                                "type": "BlackMage",
+                                "icon": "BlackMage",
+                                "total": 1173004
+                            },
+                            {
+                                "name": "天秤",
+                                "id": 9,
+                                "guid": 1000009,
+                                "type": "Scholar",
+                                "icon": "Scholar",
+                                "total": 671013
+                            },
+                            {
+                                "name": "Saika",
+                                "id": 5,
+                                "guid": 1000005,
+                                "type": "Gunbreaker",
+                                "icon": "Gunbreaker",
+                                "total": 1079795
+                            },
+                            {
+                                "name": "里安里德",
+                                "id": 10,
+                                "guid": 1000010,
+                                "type": "Viper",
+                                "icon": "Viper",
+                                "total": 2178554
+                            }
+                        ],
+                        "healingDone": [
+                            {
+                                "name": "小祥客服",
+                                "id": 3,
+                                "guid": 1000003,
+                                "type": "DarkKnight",
+                                "icon": "DarkKnight",
+                                "total": 177300
+                            },
+                            {
+                                "name": "啊羽羽羽",
+                                "id": 8,
+                                "guid": 1000008,
+                                "type": "Dancer",
+                                "icon": "Dancer",
+                                "total": 134420
+                            },
+                            {
+                                "name": "死炎法",
+                                "id": 4,
+                                "guid": 1000004,
+                                "type": "WhiteMage",
+                                "icon": "WhiteMage",
+                                "total": 1385325
+                            },
+                            {
+                                "name": "翼wing",
+                                "id": 7,
+                                "guid": 1000007,
+                                "type": "Ninja",
+                                "icon": "Ninja",
+                                "total": 19470
+                            },
+                            {
+                                "name": "雷霆与希望",
+                                "id": 6,
+                                "guid": 1000006,
+                                "type": "BlackMage",
+                                "icon": "BlackMage",
+                                "total": 16460
+                            },
+                            {
+                                "name": "天秤",
+                                "id": 9,
+                                "guid": 1000009,
+                                "type": "Scholar",
+                                "icon": "Scholar",
+                                "total": 1520008
+                            },
+                            {
+                                "name": "Saika",
+                                "id": 5,
+                                "guid": 1000005,
+                                "type": "Gunbreaker",
+                                "icon": "Gunbreaker",
+                                "total": 284303
+                            },
+                            {
+                                "name": "里安里德",
+                                "id": 10,
+                                "guid": 1000010,
+                                "type": "Viper",
+                                "icon": "Viper",
+                                "total": 55903
+                            }
+                        ],
+                        "damageTaken": [
+                            {
+                                "name": "Windfang",
+                                "guid": 41888,
+                                "type": 1024,
+                                "abilityIcon": "000000-000405.png",
+                                "total": 1107450
+                            },
+                            {
+                                "name": "Reign's End",
+                                "guid": 41883,
+                                "type": 128,
+                                "abilityIcon": "000000-000405.png",
+                                "total": 129098
+                            },
+                            {
+                                "name": "Extraplanar Pursuit",
+                                "guid": 42831,
+                                "type": 128,
+                                "abilityIcon": "000000-000405.png",
+                                "total": 1475409
+                            },
+                            {
+                                "name": "攻击",
+                                "guid": 42222,
+                                "type": 128,
+                                "abilityIcon": "000000-000101.png",
+                                "total": 357454
+                            },
+                            {
+                                "name": "Wolves' Reign",
+                                "guid": 42930,
+                                "type": 128,
+                                "abilityIcon": "000000-000405.png",
+                                "total": 344807
+                            },
+                            {
+                                "name": "Sovereign Scar",
+                                "guid": 41884,
+                                "type": 128,
+                                "abilityIcon": "000000-000405.png",
+                                "total": 447653
+                            },
+                            {
+                                "name": "Wolves' Reign",
+                                "guid": 43370,
+                                "type": 128,
+                                "abilityIcon": "000000-000405.png",
+                                "total": 93497
+                            },
+                            {
+                                "name": "Windfang",
+                                "guid": 41885,
+                                "type": 128,
+                                "abilityIcon": "000000-000405.png",
+                                "total": 252336
+                            }
+                        ],
+                        "deathEvents": [
+                            {
+                                "name": "天秤",
+                                "id": 9,
+                                "guid": 1000009,
+                                "type": "Scholar",
+                                "icon": "Scholar",
+                                "deathTime": 49025,
+                                "ability": {
+                                    "name": "Wolves' Reign",
+                                    "guid": 42930,
+                                    "type": 128,
+                                    "abilityIcon": "000000-000405.png"
+                                }
+                            },
+                            {
+                                "name": "小祥客服",
+                                "id": 3,
+                                "guid": 1000003,
+                                "type": "DarkKnight",
+                                "icon": "DarkKnight",
+                                "deathTime": 49340
+                            },
+                            {
+                                "name": "死炎法",
+                                "id": 4,
+                                "guid": 1000004,
+                                "type": "WhiteMage",
+                                "icon": "WhiteMage",
+                                "deathTime": 55185,
+                                "ability": {
+                                    "name": "Extraplanar Pursuit",
+                                    "guid": 42831,
+                                    "type": 128,
+                                    "abilityIcon": "000000-000405.png"
+                                }
+                            },
+                            {
+                                "name": "雷霆与希望",
+                                "id": 6,
+                                "guid": 1000006,
+                                "type": "BlackMage",
+                                "icon": "BlackMage",
+                                "deathTime": 55318,
+                                "ability": {
+                                    "name": "Extraplanar Pursuit",
+                                    "guid": 42831,
+                                    "type": 128,
+                                    "abilityIcon": "000000-000405.png"
+                                }
+                            },
+                            {
+                                "name": "Saika",
+                                "id": 5,
+                                "guid": 1000005,
+                                "type": "Gunbreaker",
+                                "icon": "Gunbreaker",
+                                "deathTime": 59601
+                            },
+                            {
+                                "name": "里安里德",
+                                "id": 10,
+                                "guid": 1000010,
+                                "type": "Viper",
+                                "icon": "Viper",
+                                "deathTime": 62410
+                            },
+                            {
+                                "name": "翼wing",
+                                "id": 7,
+                                "guid": 1000007,
+                                "type": "Ninja",
+                                "icon": "Ninja",
+                                "deathTime": 62588
+                            },
+                            {
+                                "name": "啊羽羽羽",
+                                "id": 8,
+                                "guid": 1000008,
+                                "type": "Dancer",
+                                "icon": "Dancer",
+                                "deathTime": 63253
+                            }
+                        ],
+                        "exploitDetails": [],
+                        "logVersion": 68,
+                        "gameVersion": 1,
+                        "logFileDetails": "DEUCALION=1.2.1,FFXIV_ACT_Plugin=2.7.3.3,GAME_VERSION=2025.06.13.0000.0000,OK=1"
+                    }
+                }
+            }
+        }
+    }
+}
