@@ -89,9 +89,9 @@ FF14战斗分析器是一个专门用于分析《最终幻想14》(FF14)战斗�
 # FF14 战斗分析器 - 项目结构（程序清单）
 
 ## 🚀 快速启动
-1.  **前提**：确保已安装 [ACT](https://advancedcombattracker.com/) 并开启网络日志。
+1.  **前提**：确保已安装 [ACT](https://act.diemoe.net/) 并开启网络日志，悬浮窗。
 2.  **安装依赖**：`pip install -r requirements.txt`
-3.  **运行程序**：`python main.py`
+3.  **运行程序**：FF14BattleAnalyzer.exe
 
 ## 📁 项目结构清单
 
