@@ -1,5 +1,5 @@
 {
-    "auto_start_act": false,
+    "auto_start_act": true,
     "act_path": "",
     "minimize_act": true
 }
