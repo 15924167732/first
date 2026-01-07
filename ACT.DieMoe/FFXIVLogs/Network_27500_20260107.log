@@ -1,0 +1,4 @@
+253|2026-01-07T10:30:31.3636953+08:00|FFXIV_ACT_Plugin Version: 2.7.5.0 (50BCD605C50A749F)|e2de03c2c9b1d78e
+249|2026-01-07T10:30:31.3636953+08:00|Selected Language ID: Chinese, Disable Damage Shield: False, Disable Combine Pets: False, Parse Filter: Party, DoTCrits: False, RealDoTs: False|fc91e210e1cc30c4
+249|2026-01-07T10:30:31.3636953+08:00|Selected Process ID: 0, Dump All Network Data: False, Disable Combat Log: False|e9f4df73a80f1069
+256|2026-01-07T10:30:38.3917165+08:00|256|OverlayPlugin|RegisterLogLine|1|12318c9d71479c57
